@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+
+
+}
+
+
+.border {
+    border-radius: 25px;
+}
+span{
+    color: lightblue;
+}
+.nav-badge{
+    margin-left: 295px;
+}
+.horizonalnavline{
+    color: lightblue;
+}
+/* section1 start */
+img{
+    height: 550px;
+    padding: 0;
+}
+.text{
+    width: 20vw;
+}
+.card{
+    border-radius: 15px;
+    
+}
+.card-body{
+    height: 130px;
+}
+.card-img-top{
+    height: 200px;
+    object-fit: cover;
+    border-radius: 15px 15px 0 0;
+}
+.btn1{
+    border: 2px solid lightblue;
+    border-radius: 55px;
+    
+}
